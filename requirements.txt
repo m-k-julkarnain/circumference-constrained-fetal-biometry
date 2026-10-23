@@ -1,0 +1,9 @@
+torch>=2.1   # tested with 2.10
+torchvision>=0.16
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+opencv-python-headless
+matplotlib
